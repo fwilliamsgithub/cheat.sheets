@@ -30,4 +30,4 @@ lshw -businfo
 lshw -html > hardware.html
 
 # Generate report in xml format
-lshw -html > hardware.html
+lshw -xml > hardware.xml
